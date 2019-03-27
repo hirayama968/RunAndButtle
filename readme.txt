@@ -3,5 +3,5 @@ Unityで作成したiPhoneゲームアプリです。
 ただしサイズの関係でAssets(cs and png)のみです。
 
 平山秀昭
-hirayama968@ybb.ne.jp
+hirayama968@gmail.com
 https://hirayama968.web.fc2.com/
